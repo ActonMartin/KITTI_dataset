@@ -1,4 +1,4 @@
-[English](./README.EN.md) | 简体中文
+ENGLISH | [简体中文](./README.md)
 
 [![HitCount](http://hits.dwyl.com/ActonMartin/ActonMartin / KITTI_dataset.svg)](http://hits.dwyl.com/ActonMartin/ActonMartin / KITTI_dataset)
 
